@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Creating a new branch is quick & simple.
-123123213123213123214444
+6666666666
 =======
 Creating a new branch is quick and simple.
 >>>>>>> feature1
